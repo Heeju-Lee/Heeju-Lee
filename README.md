@@ -8,32 +8,6 @@
 
 ---
 
-<h2 align="center">🚀 About Me 🚀</h2>
-
-<div align="center">
-  <p>
-    👋 안녕하세요! 저는 웹 개발에 열정을 가진 이희주입니다. 백엔드 개발을 목표로 꾸준히 성장 중입니다. 🚀
-  </p>
-</div>
-
-<div align="center">
-  <strong>📌 경력 & 목표</strong>
-  <p>
-    - 5년 이상 지주사 회계 업무 경험<br />
-    - Java, Spring, MySQL을 활용한 백엔드 개발 학습 중<br />
-    - 사용자 중심의 효율적인 시스템을 구축하고 싶습니다.
-  </p>
-</div>
-
-<div align="center">
-  <strong>🌱 비전</strong>
-  <p>
-    - 팀 내 협업을 통해 끊임없이 배우며 성장하는 개발자
-  </p>
-</div>
-
----
-
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
