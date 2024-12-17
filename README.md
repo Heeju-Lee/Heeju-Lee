@@ -6,7 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=✨%20Hello,%20I'm%20Heeju%20Lee%20✨&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </h1>
 
-<h2 align="center">🚀 About Me 🚀</h2>
 <p align="center">
   👋 안녕하세요! 백엔드 개발을 목표로 성장 중인 이희주입니다.🚀<br />
   Hello! I'm Heeju Lee, a developer aiming to grow as a Backend Developer.🚀
