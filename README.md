@@ -1,9 +1,9 @@
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=Heeju-Lee&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Heeju-Lee Profile Views" />
 </p>
 
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=✨%20Hello,%20I'm%20Heeju%20Lee%20✨&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=✨%20Hello,%20I'm%20Heeju%20Lee%20✨&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 </h1>
 
 <p align="center">
@@ -101,5 +101,5 @@
 </p>
 
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"  width="100%"  />
 </h1>
