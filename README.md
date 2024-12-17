@@ -1,9 +1,30 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=✨%20Hi,%20I'm%20Heeju%20Lee%20✨&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
-</h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Heeju-Lee&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Heeju-Lee Profile Views" />
+</p>
+
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=✨%20Hello,%20I'm%20Heeju%20Lee%20✨&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</h1>
+
+<h2 align="center">🚀 About Me 🚀</h2>
+<p align="center">
+  👋 안녕하세요! 백엔드 개발을 목표로 성장 중인 이희주입니다.🚀<br />
+  Hello! I'm Heeju Lee, a developer aiming to grow as a Backend Developer.🚀
+</p>
+
+<h3 align="center">
+  <strong>📌 Career & Goals</strong>
+</h3>
+<p align="center">
+  - 5년 이상 회계 업무 경험 / <span style="color: #6c63ff;">5+ years of experience in accounting</span><br />
+  - 백엔드 개발 학습 중 (Java, Spring, MySQL 등) / <span style="color: #6c63ff;">Learning Backend Development (Java, Spring, MySQL, etc.)</span>
+</p>
+
+<h3 align="center">
+  <strong>🌱 비전 / Vision</strong>
+</h3>
+<p align="center">
+  - 협업을 통해 지속적으로 배우고 성장하는 개발자 / <span style="color: #6c63ff;">A developer who continuously learns and grows through collaboration</span>
 </p>
 
 ---
@@ -58,25 +79,13 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heeju-Lee&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Heeju-Lee&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" style="border: 2px solid #ffffff; border-radius: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Heeju-Lee&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" style="border: 2px solid #ffffff; border-radius: 10px;"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Heeju-Lee&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heeju-Lee&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<h2 align="center">📚 My Journey</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Heeju-Lee&bg_color=1a1b27&color=9e4c98&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-  <br/>
-  현재는 백엔드 개발자로서의 역량을 키우고 있으며, 향후 백엔드 기술을 더욱 심화하고, 효율적인 시스템 구축에 집중하는 것을 목표로 하고 있습니다. 🛠️
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heeju-Lee&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" style="border: 2px solid #ffffff; border-radius: 10px;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Heeju-Lee&bg_color=1a1b27&color=9e4c98&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="48%" style="border: 2px solid #ffffff; border-radius: 10px;"/>
 </p>
 
 ---
