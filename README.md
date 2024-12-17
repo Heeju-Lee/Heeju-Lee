@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="center">
-  <strong>🌱 비전 / Vision</strong>
+  <strong>🌱 Vision</strong>
 </h3>
 <p align="center">
   - 협업을 통해 지속적으로 배우고 성장하는 개발자 / <span style="color: #6c63ff;">A developer who continuously learns and grows through collaboration</span>
