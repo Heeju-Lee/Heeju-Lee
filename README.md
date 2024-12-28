@@ -42,14 +42,17 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heeju-Lee&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" style="border: 2px solid #ffffff; border-radius: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heeju-Lee&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" style="border: 2px solid #ffffff; border-radius: 10px;"/>
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Heeju-Lee&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" style="border: 2px solid #ffffff; border-radius: 10px;"/>
+    <a href="https://solved.ac/heejulia21/">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=heejulia21" alt="Solved.ac Profile" width="48%" style="border: 2px solid #ffffff; border-radius: 10px;"/>
+    </a>
+  </div>
 </p>
 
 ---
-
 <h2 align="center">📬 Contact</h2>
 
 <p align="center">
@@ -64,3 +67,8 @@
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"  width="100%"  />
 </h1>
+
+
+
+
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heeju-Lee&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" style="border: 2px solid #ffffff; border-radius: 10px;"/> -->
