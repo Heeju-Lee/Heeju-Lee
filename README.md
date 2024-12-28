@@ -42,12 +42,11 @@
 
 ---
 
-<h2 align="center">📊 Stats</h2>
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Heeju-Lee&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" style="border: 2px solid #ffffff; border-radius: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Heeju-Lee&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" height="200px" style="border: 2px solid #ffffff; border-radius: 10px; object-fit: cover;"/>
     <a href="https://solved.ac/heejulia21/">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=heejulia21" alt="Solved.ac Profile" width="48%" style="border: 2px solid #ffffff; border-radius: 10px;"/>
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=heejulia21" alt="Solved.ac Profile" width="48%" height="200px" style="border: 2px solid #ffffff; border-radius: 10px; object-fit: cover;"/>
     </a>
   </div>
 </p>
